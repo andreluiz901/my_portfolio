@@ -27,7 +27,7 @@ My credentials include qualification in Clinical Pathology, Masters in Microbiol
 
 * [**A importância do uso de protetores solares na prevenção do fotoenvelhecimento e câncer de pele** | 28 citations | 2014](https://interfaces.unileao.edu.br/index.php/revista-interfaces/article/view/257)
 * [**Revisiting the steps of Salmonella gut infection with a focus on antagonistic interbacterial interactions** | 5 citations | 2022](https://interfaces.unileao.edu.br/index.php/revista-interfaces/article/view/257)
-* [**Perfil de resistência em bactérias isoladas de superfícies de um hospital público de Juazeiro do Norte-CE. | 2018 **](https://periodicos.ufsm.br/revistasaude/article/view/27335)
+* [**Perfil de resistência em bactérias isoladas de superfícies de um hospital público de Juazeiro do Norte-CE.** | 2018](https://periodicos.ufsm.br/revistasaude/article/view/27335)
 * **On going**
 
 ---
