@@ -17,10 +17,11 @@ My credentials include qualification in Clinical Pathology, Masters in Microbiol
 * [LinkedIn](https://www.linkedin.com/in/andreluiz3)
 * [Medium](https://medium.com/@silva.ala82)
 
-## Data Science and Bioinforatic Projects:
+## Data Science and Bioinformatic Projects:
 
 * [**Python scripts and tools for bioinformatics**](https://github.com/andreluiz901/bioinfo-python)
 * [**Drug discovery using lipinsky score calculations**](https://github.com/andreluiz901/bioinfo_datascience_and_analysis/blob/main/datacollect_and_process_for_lipinski_score.ipynb)
+* [**Power BI dashboards**](https://github.com/andreluiz901/power_bi/blob/main/power_bi_portfolio.md)
 * **On going**
 
 ## Academic projects and researchs:
