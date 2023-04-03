@@ -21,7 +21,8 @@ My credentials include qualification in Clinical Pathology, Masters in Microbiol
 
 * [**Python scripts and tools for bioinformatics**](https://github.com/andreluiz901/bioinfo-python)
 * [**Drug discovery using lipinsky score calculations**](https://github.com/andreluiz901/bioinfo_datascience_and_analysis/blob/main/datacollect_and_process_for_lipinski_score.ipynb)
-* [**Power BI dashboards**](https://github.com/andreluiz901/power_bi)
+* [**Power BI dashboards**](https://github.com/andreluiz901/power_bi/blob/main/README.md)
+* [**Titanic: Machine Learning from Disaster**](https://github.com/andreluiz901/bioinfo_datascience_and_analysis/blob/main/titanic_ML_part1.ipynb)
 * **On going**
 
 ## Academic projects and researchs:
