@@ -24,6 +24,7 @@ email: silva.ala82@gmail.com
 
 ## Data Science and Bioinformatic Projects:
 
+* [**Business Insights from Data: Analyzing Lisbon's Airbnb Rentals**](https://github.com/andreluiz901/bioinfo_datascience_and_analysis/blob/main/Airbnb_Lisbon_datanalisys/Airbnb_datanalisys2.ipynb)
 * [**Python scripts and tools for bioinformatics**](https://github.com/andreluiz901/bioinfo-python)
 * [**Drug discovery using lipinsky score calculations**](https://github.com/andreluiz901/bioinfo_datascience_and_analysis/blob/main/datacollect_and_process_for_lipinski_score.ipynb)
 * [**Power BI dashboards**](https://github.com/andreluiz901/power_bi/blob/main/README.md)
